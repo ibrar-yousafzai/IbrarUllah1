@@ -1,12 +1,35 @@
-- 👋 Hi, I’m @IbrarUllah1
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+# Hi, I'm Ibrar Yousafzai 👋
 
-<!---
-IbrarUllah1/IbrarUllah1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🎓 Bachelor of Science in Artificial Intelligence (BSAI) Student  
+📍 Islamabad, Pakistan  
+
+I am passionate about **Data Science, Machine Learning, and Artificial Intelligence**.  
+My goal is to build intelligent systems that solve real-world problems using data.
+
+## 🚀 Areas of Interest
+- Data Science
+- Machine Learning
+- Artificial Intelligence
+- Data Analytics
+- Python Programming
+
+## 🛠 Skills
+Python | Pandas | NumPy | Scikit-learn | SQL | Data Analysis | Machine Learning | Linux | Git
+
+## 📜 Certifications
+- Google Cybersecurity Professional Certificate
+- Google IT Automation with Python Professional Certificate
+- TESOL Certificate – Arizona State University
+- Google Cloud & NVIDIA Community Member
+
+## 📊 Current Focus
+- Machine Learning Projects
+- Data Analysis and Visualization
+- AI Model Development
+
+## 🌍 Goal
+To become a **Data Scientist** and contribute to impactful AI solutions.
+
+## 🤝 Let's Connect
+LinkedIn: 
+Kaggle:
